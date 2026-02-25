@@ -23,3 +23,12 @@ View your app in AI Studio: https://ai.studio/apps/eb77644f-1e8e-4017-ac8f-47d76
    `npm run dev`
 4. Open:
    `http://localhost:3000`
+
+## Run tests
+
+1. Run all tests:
+   `npm run test`
+2. Watch mode:
+   `npm run test:watch`
+3. Coverage:
+   `npm run test:coverage`
