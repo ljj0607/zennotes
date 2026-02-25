@@ -24,6 +24,14 @@ View your app in AI Studio: https://ai.studio/apps/eb77644f-1e8e-4017-ac8f-47d76
 4. Open:
    `http://localhost:3000`
 
+## Deploy notes
+
+If frontend and backend are deployed separately, set:
+
+`VITE_API_BASE_URL=https://your-api-domain`
+
+in your frontend deployment environment (for example, Cloudflare Pages).
+
 ## Run tests
 
 1. Run all tests:
